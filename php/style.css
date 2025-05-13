@@ -1,0 +1,27 @@
+body{
+front-family:arial;
+margin: 20px;
+background-color:#A9A9A9;
+text-align: center;
+font-size: 20px;
+}
+nav a{
+margin: 0 10px;
+text-decoratio: none;
+color; #DCDCDC
+}
+footer{
+text-align: center;
+font-size: 14px;
+}
+input, textarea{
+margin: 5px;
+padding: 8px;
+width: 300px;
+}
+button{
+padding: 8px 16px;
+backgroud: #0077cc;
+color:black;
+cursor: ponter;
+}
